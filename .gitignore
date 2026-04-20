@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Node (if any tooling is added later)
+node_modules/
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
